@@ -18,7 +18,8 @@ Bloco de código:
 
 def hello_world():
 print("Hello, world!")
-
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 ## Step 4: Make a Task List
 Para criar uma lista de tarefas, use colchetes e espaços:
