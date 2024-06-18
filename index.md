@@ -7,5 +7,5 @@
 # image
 
 
-A image [godotocat](![https://octodex.github.com/images/godotocat.png)
-).
+![https://octodex.github.com/images/godotocat.png)
+
