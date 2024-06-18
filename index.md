@@ -1,3 +1,4 @@
+```markdown
 # Communicate using Markdown
 
 ## Step 1: Add Headers
@@ -15,11 +16,16 @@ Inline code:
 `Here is an example of inline code.`
 
 Bloco de código:
-
+```
 def hello_world():
-print("Hello, world!")
+    print("Hello, world!")
+```
+
+Inicializar um repositório Git:
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ## Step 4: Make a Task List
 Para criar uma lista de tarefas, use colchetes e espaços:
@@ -30,4 +36,6 @@ Para criar uma lista de tarefas, use colchetes e espaços:
 
 ## Step 5: Merge your Pull Request
 Para finalizar, você pode fazer merge do seu pull request (PR) para incorporar as mudanças no branch principal do seu repositório.
+
 Você pode copiar e colar este conteúdo diretamente em um arquivo README.md no seu repositório.
+```
