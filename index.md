@@ -10,3 +10,6 @@ def hello_world():
     print("Hello, world!")
 
 
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [x] Tarefa 3 concluída
