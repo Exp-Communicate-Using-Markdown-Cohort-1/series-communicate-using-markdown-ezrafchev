@@ -15,7 +15,7 @@ This file will guide you through the basics of Markdown.
 
 
 
-![Image of Yaktocat]([https://octodex.github.com/images/yaktocat.png](https://images.app.goo.gl/jnyY2o7KusZ4UULH9))
+![Image of Yaktocat]([(https://images.app.goo.gl/jnyY2o7KusZ4UULH9])
 
 ## Code Blocks
 
