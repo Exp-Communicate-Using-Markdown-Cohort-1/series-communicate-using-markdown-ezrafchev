@@ -1,9 +1,6 @@
 
 
 
-This file will guide you through the basics of Markdown.
-
-
 
 # This is an H1 header
 ## This is an H2 header
@@ -15,7 +12,7 @@ This file will guide you through the basics of Markdown.
 
 
 
-![Image of Yaktocat]([(https://images.app.goo.gl/jnyY2o7KusZ4UULH9])
+![jnyY2o7KusZ4UULH9]([(https://images.app.goo.gl/jnyY2o7KusZ4UULH9])
 
 ## Code Blocks
 
