@@ -15,7 +15,7 @@ Exemplos:
 Para adicionar uma imagem, use a seguinte sintaxe:
 
 ```markdown
-![Texto Alternativo](url-da-imagem)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
 Exemplo:
