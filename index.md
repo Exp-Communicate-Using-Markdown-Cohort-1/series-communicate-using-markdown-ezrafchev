@@ -3,9 +3,6 @@
 
 
 
-function helloWorld() {
-  console.log("Hello, world!");
-}
 
 - [x] Complete this tutorial
 - [ ] Learn more about Markdown
