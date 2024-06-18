@@ -14,3 +14,8 @@ Markdown supports a variety of headers. Here's an example of each:
 ##### This is an H5 header
 ###### This is an H6 header
 
+## Images
+
+You can add images using Markdown like this:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
