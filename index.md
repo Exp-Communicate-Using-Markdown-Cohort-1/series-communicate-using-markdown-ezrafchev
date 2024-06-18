@@ -15,11 +15,10 @@ Inline code:
 `Here is an example of inline code.`
 
 Bloco de código:
+
 def hello_world():
 print("Hello, world!")
 
-perl
-Copiar código
 
 ## Step 4: Make a Task List
 Para criar uma lista de tarefas, use colchetes e espaços:
