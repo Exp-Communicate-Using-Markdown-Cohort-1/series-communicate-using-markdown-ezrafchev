@@ -1,12 +1,12 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### testing for code block
-\```javascript
+```javascript
 if(iamhungry){
   print("i eat");
 }else {
   print("schleep");
 }
-\```
+```
 ### testing for list
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
