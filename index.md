@@ -6,7 +6,7 @@
 if(iamhungry){
   print("i eat");
 }else {
-  print("schleep);
+  print("schleep");
 }
 ```
 ### testing for list
